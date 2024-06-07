@@ -17,7 +17,31 @@ class Car {
 
   update(roadBoarders) {
     this.#move();
+    this.polygon=this.#createPolygon();
     this.sensor.update(roadBoarders);
+  }
+
+  #createPolygon(){
+    const points = [];
+    const rad = Math.hypot(this.width, this.height) / 2;
+    const alpha = Math.atan2(this.width, this.height);
+    points.push({
+      x: this.x + rad * Math.sin(-this.angle - alpha),
+      y: this.y + rad * Math.cos(-this.angle - alpha)
+    });
+    points.push({
+      x: this.x + rad * Math.sin(-this.angle + alpha)* rad,
+      y: this.y + rad * Math.cos(-this.angle + alpha)* rad
+    });
+    points.push({
+      x: this.x - rad * Math.sin(Math.PI+this.angle-alpha),
+      y: this.y - rad * Math.cos(Math.PI+this.angle-alpha)
+    });
+    points.push({
+      x: this.x - rad * Math.sin(Math.PI+this.angle+alpha),
+      y: this.y - rad * Math.cos(Math.PI+this.angle+alpha)
+    });
+    return points;
   }
 
   #move() {
