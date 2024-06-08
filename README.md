@@ -17,7 +17,8 @@ This project demonstrates a self-driving car simulation using JavaScript, Neural
 To set up this portfolio on your local machine, follow these steps:
 
 Clone the repository: git clone https://github.com/AhmadBahr/self-driving-car.git
-Navigate to the project directory:cd self-driving-car
+
+Navigate to the project directory: cd self-driving-car
 
 ## Features
 -Neural Network Training
