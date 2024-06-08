@@ -14,7 +14,7 @@ This project demonstrates a self-driving car simulation using JavaScript, Neural
 - CSS
   
 ## Setup:
-To set up this portfolio on your local machine, follow these steps:
+To set up this project on your local machine, follow these steps:
 
 Clone the repository: git clone https://github.com/AhmadBahr/self-driving-car.git
 
