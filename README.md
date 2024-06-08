@@ -22,7 +22,7 @@ Navigate to the project directory: cd self-driving-car
 
 ## Features
 # Neural Network Training
-Data Collection: Collect training data through manual driving or use pre-existing datasets.
+- Data Collection: Collect training data through manual driving or use pre-existing datasets.
 Model Training: Use TensorFlow.js to train a neural network model with the collected data.
 Real-Time Learning: Implement real-time learning and adaptation for the car.
 # Simulation Environment
