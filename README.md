@@ -16,7 +16,7 @@ This project demonstrates a self-driving car simulation using JavaScript, Neural
 ## Setup:
 To set up this portfolio on your local machine, follow these steps:
 
-Clone the repository: git clone https://github.com/Ahmad Bahr/self-driving-car.git
+Clone the repository: git clone https://github.com/AhmadBahr/self-driving-car.git
 Navigate to the project directory:cd self-driving-car
 
 ## Features
@@ -32,6 +32,7 @@ Rendering: Use WebGL for rendering the environment and the car.
 Perception: Implement sensors (e.g., virtual LIDAR, cameras) to perceive the environment.
 Decision Making: Use the trained neural network to make driving decisions.
 Control: Implement control algorithms to navigate the car based on decisions.
+Damage Detection: Implement sensors to detect collisions and handle car damage appropriately.
 -User Interface
 Dashboard: Provide a dashboard to monitor the car's performance and status.
 Control Panel: Allow users to adjust parameters and settings for the simulation.
@@ -53,4 +54,5 @@ High-Quality Graphics: Use high-quality graphics to make the simulation visually
 Clean Code: Maintain clean and well-documented code for ease of understanding and collaboration.
 Usability: Focus on creating an intuitive and easy-to-navigate interface for users.
 Performance Optimization: Optimize the simulation for performance to ensure smooth operation even on lower-end devices.
+
 This comprehensive approach ensures that the self-driving car project is not only functional but also user-friendly, visually appealing, and maintainable. Regular updates and community contributions can help keep the project relevant and continuously improving.
