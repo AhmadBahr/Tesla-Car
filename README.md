@@ -56,4 +56,13 @@ Navigate to the project directory: cd self-driving-car
 - Usability: Focus on creating an intuitive and easy-to-navigate interface for users.
 - Performance Optimization: Optimize the simulation for performance to ensure smooth operation even on lower-end devices.
 
+# Note:
 This comprehensive approach ensures that the self-driving car project is not only functional but also user-friendly, visually appealing, and maintainable. Regular updates and community contributions can help keep the project relevant and continuously improving.
+
+# Code & Snippets: 
+![Self-Driving-Car - ahmad - Visual Studio Code 30-Jul-24 1_33_52 AM](https://github.com/user-attachments/assets/c8e77092-c91d-47f4-8ce7-5c9c38fa2025)
+![Self-Driving-Car - ahmad - Visual Studio Code 30-Jul-24 1_33_38 AM](https://github.com/user-attachments/assets/61a7d4f7-ed1f-471a-9b9a-d9ac19ccd7da)
+![Self-Driving-Car - ahmad - Visual Studio Code 30-Jul-24 1_33_30 AM](https://github.com/user-attachments/assets/9329ea61-fd73-4358-ba56-b3eaf8c12ce7)
+![Self-Driving-Car - ahmad - Visual Studio Code 30-Jul-24 1_33_19 AM](https://github.com/user-attachments/assets/19cc78fd-c3a9-4b80-948c-cd26e4d90862)
+![Self-Driving-Car - ahmad - Visual Studio Code 30-Jul-24 1_33_10 AM](https://github.com/user-attachments/assets/5ab0f7ae-9775-4480-9ee1-0a9da8a86541)
+![Self-driving car - No libraries - Google Chrome 30-Jul-24 1_34_27 AM](https://github.com/user-attachments/assets/04c182a5-f3da-465e-a5df-e462ad18a536)
