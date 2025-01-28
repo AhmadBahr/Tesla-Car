@@ -12,6 +12,8 @@ This project demonstrates a self-driving car simulation using JavaScript, Neural
 - JavaScript
 - HTML
 - CSS
+- Neural Networks
+- Machine Learning
   
 ## Setup:
 To set up this project on your local machine, follow these steps:
